@@ -1,6 +1,5 @@
 package com.subin.blog.springboot.domain.posts;
 
-import junit.framework.TestCase;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
