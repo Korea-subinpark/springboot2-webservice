@@ -39,7 +39,7 @@ deploy:
     secret_access_key: $AWS_SECRET_KEY
     bucket: sublog-springboot-build
     key: springboot2-webservice.zip
-    bundle-type: zip
+    bundle_type: zip
     application: springboot2-webservice
     deployment_group: springboot2-webservice-group
     region: ap-northeast-2
